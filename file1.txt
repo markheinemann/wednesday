@@ -7,5 +7,3 @@ bbc
 netflix
 
 prime
-
-skynews
