@@ -5,4 +5,4 @@ itv
 
 
 netflix
-netfliex 2
+netflix2
