@@ -5,13 +5,4 @@ bbc
 
 
 netflix
-
-
-bbc
-
-<<<<<<< HEAD
-itv sky another sky another sky
-
-=======
-itv
->>>>>>> 686b3be167f435e1c8215e599f302a6f825ac659
+bbcsky
