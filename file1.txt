@@ -6,16 +6,3 @@ bbc
 
 netflix
 bbcsky
-
-add prime add prime
-
-If this were not the case, then two people pushing to the same repository at about the same time would not know that there was a new commit coming in at the same time and whoever pushed last would lose the work of the previous pusher without either of them realising this.
-
-If you know that you are the only person pushing and you want to push an amended commit or push a commit that winds b
-
-*****
-
-ven this may not work as Git allows remote repositories to refuse non-fastforward pushes at the far end by using the configuration variable receive.denynonfastforwards. If this is the case the rejection reason will look like this (note the 'remote rejected' part):
-
- ! [remote rejected] master -> master (non-fast forward)
-To get around this, you either need to change the remote repository's configuration or as a dirty hack you can delete and recreate the branch thus:
