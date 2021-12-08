@@ -7,3 +7,5 @@ bbc
 netflix
 
 prime
+
+skynews
